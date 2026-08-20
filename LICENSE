@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Attribution / third-party note
-
-The speech-compression pattern in this skill draws on the work of
-JuliusBrussee (github.com/JuliusBrussee/caveman, released under the MIT
-License). No code or documentation from that project is copied here; all
-prose in this repository is an independent rewrite. This note is
-acknowledgment only and does not grant any rights in the referenced work.
