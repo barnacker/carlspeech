@@ -16,7 +16,7 @@ productivity/carlspeech/SKILL.md   # the skill — install by copying this dir i
 
 ## Usage
 
-Active by default — no trigger needed. Off (voice only): "stop carlspeech" / "normal mode" / "terminate carl". Intensity: `/carlspeech lite|full|ultra|wenyan-lite|wenyan-full|wenyan-ultra` (default `full`).
+Active by default — no trigger needed. Off (voice only): "stop carlspeech" / "normal mode" / "terminate carl". Intensity: `lite|full|ultra` (default `full`).
 
 ## License
 
